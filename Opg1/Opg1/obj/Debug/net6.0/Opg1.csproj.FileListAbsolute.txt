@@ -1,0 +1,15 @@
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\Opg1\Opg1\bin\Debug\net6.0\Opg1.exe
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\Opg1\Opg1\bin\Debug\net6.0\Opg1.deps.json
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\Opg1\Opg1\bin\Debug\net6.0\Opg1.runtimeconfig.json
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\Opg1\Opg1\bin\Debug\net6.0\Opg1.dll
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\Opg1\Opg1\bin\Debug\net6.0\Opg1.pdb
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\Opg1\Opg1\obj\Debug\net6.0\Opg1.csproj.AssemblyReference.cache
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\Opg1\Opg1\obj\Debug\net6.0\Opg1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\Opg1\Opg1\obj\Debug\net6.0\Opg1.AssemblyInfoInputs.cache
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\Opg1\Opg1\obj\Debug\net6.0\Opg1.AssemblyInfo.cs
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\Opg1\Opg1\obj\Debug\net6.0\Opg1.csproj.CoreCompileInputs.cache
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\Opg1\Opg1\obj\Debug\net6.0\Opg1.dll
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\Opg1\Opg1\obj\Debug\net6.0\refint\Opg1.dll
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\Opg1\Opg1\obj\Debug\net6.0\Opg1.pdb
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\Opg1\Opg1\obj\Debug\net6.0\Opg1.genruntimeconfig.cache
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\Opg1\Opg1\obj\Debug\net6.0\ref\Opg1.dll

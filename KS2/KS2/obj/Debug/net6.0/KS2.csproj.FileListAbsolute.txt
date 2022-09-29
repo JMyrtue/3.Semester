@@ -1,0 +1,15 @@
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\KS2\KS2\bin\Debug\net6.0\KS2.exe
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\KS2\KS2\bin\Debug\net6.0\KS2.deps.json
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\KS2\KS2\bin\Debug\net6.0\KS2.runtimeconfig.json
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\KS2\KS2\bin\Debug\net6.0\KS2.dll
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\KS2\KS2\bin\Debug\net6.0\KS2.pdb
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\KS2\KS2\obj\Debug\net6.0\KS2.csproj.AssemblyReference.cache
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\KS2\KS2\obj\Debug\net6.0\KS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\KS2\KS2\obj\Debug\net6.0\KS2.AssemblyInfoInputs.cache
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\KS2\KS2\obj\Debug\net6.0\KS2.AssemblyInfo.cs
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\KS2\KS2\obj\Debug\net6.0\KS2.csproj.CoreCompileInputs.cache
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\KS2\KS2\obj\Debug\net6.0\KS2.dll
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\KS2\KS2\obj\Debug\net6.0\refint\KS2.dll
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\KS2\KS2\obj\Debug\net6.0\KS2.pdb
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\KS2\KS2\obj\Debug\net6.0\KS2.genruntimeconfig.cache
+C:\Users\toyot\OneDrive\Dokumenter\Gitrepose\3.semester\KS2\KS2\obj\Debug\net6.0\ref\KS2.dll
