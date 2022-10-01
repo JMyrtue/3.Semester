@@ -1,0 +1,15 @@
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\MenuMiniProject\MenuMiniProject\obj\Debug\net6.0\MenuMiniProject.csproj.AssemblyReference.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\MenuMiniProject\MenuMiniProject\obj\Debug\net6.0\MenuMiniProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\MenuMiniProject\MenuMiniProject\obj\Debug\net6.0\MenuMiniProject.AssemblyInfoInputs.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\MenuMiniProject\MenuMiniProject\obj\Debug\net6.0\MenuMiniProject.AssemblyInfo.cs
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\MenuMiniProject\MenuMiniProject\obj\Debug\net6.0\MenuMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\MenuMiniProject\MenuMiniProject\bin\Debug\net6.0\MenuMiniProject.exe
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\MenuMiniProject\MenuMiniProject\bin\Debug\net6.0\MenuMiniProject.deps.json
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\MenuMiniProject\MenuMiniProject\bin\Debug\net6.0\MenuMiniProject.runtimeconfig.json
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\MenuMiniProject\MenuMiniProject\bin\Debug\net6.0\MenuMiniProject.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\MenuMiniProject\MenuMiniProject\bin\Debug\net6.0\MenuMiniProject.pdb
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\MenuMiniProject\MenuMiniProject\obj\Debug\net6.0\MenuMiniProject.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\MenuMiniProject\MenuMiniProject\obj\Debug\net6.0\refint\MenuMiniProject.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\MenuMiniProject\MenuMiniProject\obj\Debug\net6.0\MenuMiniProject.pdb
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\MenuMiniProject\MenuMiniProject\obj\Debug\net6.0\MenuMiniProject.genruntimeconfig.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\MenuMiniProject\MenuMiniProject\obj\Debug\net6.0\ref\MenuMiniProject.dll
