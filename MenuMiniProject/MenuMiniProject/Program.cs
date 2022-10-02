@@ -18,11 +18,10 @@ class Program
             new MenuItem(
                 "Punkt3",
                 "Indhold af punkt3"));
-        Menu undermenu = new Menu("Undermenu",
-            new MenuItem("TestPunkt", "Indhold"),
-            new MenuItem("TestPunkt2", "indhold")
-            );
-        menu.Add(undermenu);
+        Menu underMenu = new Menu("Undermenu");
+            underMenu.Add(new MenuItem("TestPunkt", "Indhold"));
+            underMenu.Add(new MenuItem("TestPunkt2", "indhold"));
+        menu.Add(underMenu);
         menu.Start();
     }
 }

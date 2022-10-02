@@ -12,5 +12,6 @@ public class MenuItem : IMenuItem
 	public void Select()
 	{
 		Console.WriteLine(Content);
+		Console.ReadKey();
 	}
 }

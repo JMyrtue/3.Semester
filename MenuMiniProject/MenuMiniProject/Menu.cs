@@ -6,22 +6,16 @@ class Menu : IMenuItem
     public string Title { get; set; }
     public int currentIndex = 0;
 
-    List<MenuItem> menuItems = new List<MenuItem>();
+    List<IMenuItem> menuItems = new List<IMenuItem>();
 
-    public Menu(params string[] title)
+    public Menu(string title)
     {
-        foreach (var item in title)
-        {
-            Title = item;
-        }
+            Title = title;
     }
 
-    public void Add(params MenuItem[] item)
+    public void Add(IMenuItem item)
     {
-        foreach (var i in menuItems)
-        {
-            menuItems.Add(i);
-        }
+            menuItems.Add(item);
     }
 
     public void Start()
@@ -62,7 +56,7 @@ class Menu : IMenuItem
                 MoveDown();
                 break;
             case ConsoleKey.Enter:
-                menuItems[currentIndex].Select();
+                Select();
                 break;
             default:
                 break;
@@ -79,5 +73,21 @@ class Menu : IMenuItem
     {
         if (currentIndex != menuItems.Count - 1)
             ++currentIndex;
+    }
+
+    public void Select()
+    {
+        if(menuItems[currentIndex] is Menu menu) 
+            {
+            running = false;
+            Console.Clear();
+            menu.Start();
+            }
+        else if (menuItems[currentIndex] is MenuItem item) 
+            {
+            Console.Clear();
+            running = false;
+            item.Select();
+            }
     }
 }
