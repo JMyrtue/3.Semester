@@ -22,6 +22,11 @@ class Program
             underMenu.Add(new MenuItem("TestPunkt", "Indhold"));
             underMenu.Add(new MenuItem("TestPunkt2", "indhold"));
         menu.Add(underMenu);
+        InfinityMenu InfMenu = new InfinityMenu("InfMenu");
+        InfMenu.Build();
+        menu.Add(InfMenu);
+        menu.Add(new FileSystemMenu("Browse my C-Drive", new DirectoryInfo(@"C:\")));
+
         menu.Start();
     }
 }

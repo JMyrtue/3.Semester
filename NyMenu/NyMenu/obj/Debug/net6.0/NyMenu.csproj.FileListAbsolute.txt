@@ -1,0 +1,15 @@
+C:\Users\Jonathan\Documents\Programmering\3.Semester\NyMenu\NyMenu\bin\Debug\net6.0\NyMenu.exe
+C:\Users\Jonathan\Documents\Programmering\3.Semester\NyMenu\NyMenu\bin\Debug\net6.0\NyMenu.deps.json
+C:\Users\Jonathan\Documents\Programmering\3.Semester\NyMenu\NyMenu\bin\Debug\net6.0\NyMenu.runtimeconfig.json
+C:\Users\Jonathan\Documents\Programmering\3.Semester\NyMenu\NyMenu\bin\Debug\net6.0\NyMenu.dll
+C:\Users\Jonathan\Documents\Programmering\3.Semester\NyMenu\NyMenu\bin\Debug\net6.0\NyMenu.pdb
+C:\Users\Jonathan\Documents\Programmering\3.Semester\NyMenu\NyMenu\obj\Debug\net6.0\NyMenu.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Documents\Programmering\3.Semester\NyMenu\NyMenu\obj\Debug\net6.0\NyMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Documents\Programmering\3.Semester\NyMenu\NyMenu\obj\Debug\net6.0\NyMenu.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Documents\Programmering\3.Semester\NyMenu\NyMenu\obj\Debug\net6.0\NyMenu.AssemblyInfo.cs
+C:\Users\Jonathan\Documents\Programmering\3.Semester\NyMenu\NyMenu\obj\Debug\net6.0\NyMenu.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Documents\Programmering\3.Semester\NyMenu\NyMenu\obj\Debug\net6.0\NyMenu.dll
+C:\Users\Jonathan\Documents\Programmering\3.Semester\NyMenu\NyMenu\obj\Debug\net6.0\refint\NyMenu.dll
+C:\Users\Jonathan\Documents\Programmering\3.Semester\NyMenu\NyMenu\obj\Debug\net6.0\NyMenu.pdb
+C:\Users\Jonathan\Documents\Programmering\3.Semester\NyMenu\NyMenu\obj\Debug\net6.0\NyMenu.genruntimeconfig.cache
+C:\Users\Jonathan\Documents\Programmering\3.Semester\NyMenu\NyMenu\obj\Debug\net6.0\ref\NyMenu.dll

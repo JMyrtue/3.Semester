@@ -75,7 +75,7 @@ class Menu : IMenuItem
             ++currentIndex;
     }
 
-    public void Select()
+    public virtual void Select()
     {
         if(menuItems[currentIndex] is Menu menu) 
             {
@@ -89,5 +89,11 @@ class Menu : IMenuItem
             running = false;
             item.Select();
             }
+        else if (menuItems[currentIndex] is InfinityMenu infMenu)
+        {
+            Console.Clear();
+            running = false;
+            infMenu.Select(); 
+        }
     }
 }

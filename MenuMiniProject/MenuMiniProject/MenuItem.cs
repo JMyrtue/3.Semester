@@ -14,4 +14,5 @@ public class MenuItem : IMenuItem
 		Console.WriteLine(Content);
 		Console.ReadKey();
 	}
+
 }
