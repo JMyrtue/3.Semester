@@ -1,0 +1,15 @@
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\ReadInteger\ReadInteger\bin\Debug\net6.0\ReadInteger.exe
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\ReadInteger\ReadInteger\bin\Debug\net6.0\ReadInteger.deps.json
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\ReadInteger\ReadInteger\bin\Debug\net6.0\ReadInteger.runtimeconfig.json
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\ReadInteger\ReadInteger\bin\Debug\net6.0\ReadInteger.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\ReadInteger\ReadInteger\bin\Debug\net6.0\ReadInteger.pdb
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\ReadInteger\ReadInteger\obj\Debug\net6.0\ReadInteger.csproj.AssemblyReference.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\ReadInteger\ReadInteger\obj\Debug\net6.0\ReadInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\ReadInteger\ReadInteger\obj\Debug\net6.0\ReadInteger.AssemblyInfoInputs.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\ReadInteger\ReadInteger\obj\Debug\net6.0\ReadInteger.AssemblyInfo.cs
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\ReadInteger\ReadInteger\obj\Debug\net6.0\ReadInteger.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\ReadInteger\ReadInteger\obj\Debug\net6.0\ReadInteger.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\ReadInteger\ReadInteger\obj\Debug\net6.0\refint\ReadInteger.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\ReadInteger\ReadInteger\obj\Debug\net6.0\ReadInteger.pdb
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\ReadInteger\ReadInteger\obj\Debug\net6.0\ReadInteger.genruntimeconfig.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\ReadInteger\ReadInteger\obj\Debug\net6.0\ref\ReadInteger.dll

@@ -1,0 +1,15 @@
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\PrinterFromHell\PrinterFromHell\bin\Debug\net6.0\PrinterFromHell.exe
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\PrinterFromHell\PrinterFromHell\bin\Debug\net6.0\PrinterFromHell.deps.json
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\PrinterFromHell\PrinterFromHell\bin\Debug\net6.0\PrinterFromHell.runtimeconfig.json
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\PrinterFromHell\PrinterFromHell\bin\Debug\net6.0\PrinterFromHell.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\PrinterFromHell\PrinterFromHell\bin\Debug\net6.0\PrinterFromHell.pdb
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\PrinterFromHell\PrinterFromHell\obj\Debug\net6.0\PrinterFromHell.csproj.AssemblyReference.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\PrinterFromHell\PrinterFromHell\obj\Debug\net6.0\PrinterFromHell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\PrinterFromHell\PrinterFromHell\obj\Debug\net6.0\PrinterFromHell.AssemblyInfoInputs.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\PrinterFromHell\PrinterFromHell\obj\Debug\net6.0\PrinterFromHell.AssemblyInfo.cs
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\PrinterFromHell\PrinterFromHell\obj\Debug\net6.0\PrinterFromHell.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\PrinterFromHell\PrinterFromHell\obj\Debug\net6.0\PrinterFromHell.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\PrinterFromHell\PrinterFromHell\obj\Debug\net6.0\refint\PrinterFromHell.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\PrinterFromHell\PrinterFromHell\obj\Debug\net6.0\PrinterFromHell.pdb
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\PrinterFromHell\PrinterFromHell\obj\Debug\net6.0\PrinterFromHell.genruntimeconfig.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\PrinterFromHell\PrinterFromHell\obj\Debug\net6.0\ref\PrinterFromHell.dll

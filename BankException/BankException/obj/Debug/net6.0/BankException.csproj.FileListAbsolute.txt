@@ -1,0 +1,15 @@
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\BankException\BankException\bin\Debug\net6.0\BankException.exe
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\BankException\BankException\bin\Debug\net6.0\BankException.deps.json
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\BankException\BankException\bin\Debug\net6.0\BankException.runtimeconfig.json
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\BankException\BankException\bin\Debug\net6.0\BankException.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\BankException\BankException\bin\Debug\net6.0\BankException.pdb
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\BankException\BankException\obj\Debug\net6.0\BankException.csproj.AssemblyReference.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\BankException\BankException\obj\Debug\net6.0\BankException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\BankException\BankException\obj\Debug\net6.0\BankException.AssemblyInfoInputs.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\BankException\BankException\obj\Debug\net6.0\BankException.AssemblyInfo.cs
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\BankException\BankException\obj\Debug\net6.0\BankException.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\BankException\BankException\obj\Debug\net6.0\BankException.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\BankException\BankException\obj\Debug\net6.0\refint\BankException.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\BankException\BankException\obj\Debug\net6.0\BankException.pdb
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\BankException\BankException\obj\Debug\net6.0\BankException.genruntimeconfig.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\BankException\BankException\obj\Debug\net6.0\ref\BankException.dll
