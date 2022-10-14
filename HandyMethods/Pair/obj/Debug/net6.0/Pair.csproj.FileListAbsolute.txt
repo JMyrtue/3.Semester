@@ -1,0 +1,15 @@
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\HandyMethods\Pair\bin\Debug\net6.0\Pair.exe
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\HandyMethods\Pair\bin\Debug\net6.0\Pair.deps.json
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\HandyMethods\Pair\bin\Debug\net6.0\Pair.runtimeconfig.json
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\HandyMethods\Pair\bin\Debug\net6.0\Pair.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\HandyMethods\Pair\bin\Debug\net6.0\Pair.pdb
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\HandyMethods\Pair\obj\Debug\net6.0\Pair.csproj.AssemblyReference.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\HandyMethods\Pair\obj\Debug\net6.0\Pair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\HandyMethods\Pair\obj\Debug\net6.0\Pair.AssemblyInfoInputs.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\HandyMethods\Pair\obj\Debug\net6.0\Pair.AssemblyInfo.cs
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\HandyMethods\Pair\obj\Debug\net6.0\Pair.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\HandyMethods\Pair\obj\Debug\net6.0\Pair.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\HandyMethods\Pair\obj\Debug\net6.0\refint\Pair.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\HandyMethods\Pair\obj\Debug\net6.0\Pair.pdb
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\HandyMethods\Pair\obj\Debug\net6.0\Pair.genruntimeconfig.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\HandyMethods\Pair\obj\Debug\net6.0\ref\Pair.dll
