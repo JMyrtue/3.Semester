@@ -4,40 +4,43 @@ class Program
 {
     static void Main()
     {
-        Pair<string, bool> par = new Pair<string, bool>("Fuckoff", true);
-        Console.WriteLine(par.Value1 + " " + par.Value2);
-        //var nytPar = par.Swap();
-        //Console.WriteLine(nytPar.Value1 + nytPar.Value2);
-        var nytPar = par.SetFst(5);
+        //Pair<string, bool> par = new Pair<string, bool>("Fuckoff", true);
+        //Console.WriteLine(par.Value1 + " " + par.Value2);
+        ////var nytPar = par.Swap();
+        ////Console.WriteLine(nytPar.Value1 + nytPar.Value2);
+        //var nytPar = par.SetFst(5);
 
-        Console.WriteLine($"{nytPar.Value1} {nytPar.Value2}");
+        //Console.WriteLine($"{nytPar.Value1} {nytPar.Value2}");
 
+        var Dicktionary = new Dict<K,V>();
     }
 }
 
-class Pair<T1, T2> 
+class Dict
 {
-    public T1 Value1 { get; }
-    public T2 Value2 { get; }
-    public Pair(T1 value1, T2 value2)
+    List<Pair<K,V>> Dicktionary = new List<Pair<K,V>>();
+
+    public Dict()
     {
-        Value1 = value1;
-        Value2 = value2;
+
+    }
+    public V Get(K key)
+    {
+        foreach(Pair<K,V> pair in Dicktionary)
+        {
+            if (pair.Value1.Equals(key))
+                return pair.Value2;
+        }
+        throw new ArgumentException("Key not present in the Dictionary");
     }
 
-    public Pair<T2, T1> Swap()
+    public void Put(K key, V value)
     {
-        return new Pair<T2, T1>(Value2, Value1);
+        foreach(Pair<K,V> pair in Dicktionary)
+        {
+            if (pair.Value1.Equals(key))
+                Dicktionary.Remove(pair);
+        }
+        Dicktionary.Add(new Pair<K,V>(key, value));
     }
-
-    public Pair<C, T2> SetFst<C>(C c)
-    {
-        return new Pair<C, T2>(c, Value2);
-    }
-
-    public Pair<T1, C> SetSnd<C>(C c)
-    {
-        return new Pair<T1, C>(Value1, c);
-    }
-
 }
