@@ -1,0 +1,15 @@
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Lecture7\Lecture7\bin\Debug\net6.0\Lecture7.exe
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Lecture7\Lecture7\bin\Debug\net6.0\Lecture7.deps.json
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Lecture7\Lecture7\bin\Debug\net6.0\Lecture7.runtimeconfig.json
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Lecture7\Lecture7\bin\Debug\net6.0\Lecture7.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Lecture7\Lecture7\bin\Debug\net6.0\Lecture7.pdb
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Lecture7\Lecture7\obj\Debug\net6.0\Lecture7.csproj.AssemblyReference.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Lecture7\Lecture7\obj\Debug\net6.0\Lecture7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Lecture7\Lecture7\obj\Debug\net6.0\Lecture7.AssemblyInfoInputs.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Lecture7\Lecture7\obj\Debug\net6.0\Lecture7.AssemblyInfo.cs
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Lecture7\Lecture7\obj\Debug\net6.0\Lecture7.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Lecture7\Lecture7\obj\Debug\net6.0\Lecture7.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Lecture7\Lecture7\obj\Debug\net6.0\refint\Lecture7.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Lecture7\Lecture7\obj\Debug\net6.0\Lecture7.pdb
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Lecture7\Lecture7\obj\Debug\net6.0\Lecture7.genruntimeconfig.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Lecture7\Lecture7\obj\Debug\net6.0\ref\Lecture7.dll
