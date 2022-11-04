@@ -1,0 +1,15 @@
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\Kursusgang8\bin\Debug\net6.0\Sequence.exe
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\Kursusgang8\bin\Debug\net6.0\Sequence.deps.json
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\Kursusgang8\bin\Debug\net6.0\Sequence.runtimeconfig.json
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\Kursusgang8\bin\Debug\net6.0\Sequence.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\Kursusgang8\bin\Debug\net6.0\Sequence.pdb
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\Kursusgang8\obj\Debug\net6.0\Sequence.csproj.AssemblyReference.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\Kursusgang8\obj\Debug\net6.0\Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\Kursusgang8\obj\Debug\net6.0\Sequence.AssemblyInfoInputs.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\Kursusgang8\obj\Debug\net6.0\Sequence.AssemblyInfo.cs
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\Kursusgang8\obj\Debug\net6.0\Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\Kursusgang8\obj\Debug\net6.0\Sequence.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\Kursusgang8\obj\Debug\net6.0\refint\Sequence.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\Kursusgang8\obj\Debug\net6.0\Sequence.pdb
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\Kursusgang8\obj\Debug\net6.0\Sequence.genruntimeconfig.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\Kursusgang8\obj\Debug\net6.0\ref\Sequence.dll

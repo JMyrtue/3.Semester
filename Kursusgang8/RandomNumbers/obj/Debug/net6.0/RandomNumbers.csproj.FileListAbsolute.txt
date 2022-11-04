@@ -1,0 +1,15 @@
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\RandomNumbers\bin\Debug\net6.0\RandomNumbers.exe
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\RandomNumbers\bin\Debug\net6.0\RandomNumbers.deps.json
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\RandomNumbers\bin\Debug\net6.0\RandomNumbers.runtimeconfig.json
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\RandomNumbers\bin\Debug\net6.0\RandomNumbers.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\RandomNumbers\bin\Debug\net6.0\RandomNumbers.pdb
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\RandomNumbers\obj\Debug\net6.0\RandomNumbers.csproj.AssemblyReference.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\RandomNumbers\obj\Debug\net6.0\RandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\RandomNumbers\obj\Debug\net6.0\RandomNumbers.AssemblyInfoInputs.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\RandomNumbers\obj\Debug\net6.0\RandomNumbers.AssemblyInfo.cs
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\RandomNumbers\obj\Debug\net6.0\RandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\RandomNumbers\obj\Debug\net6.0\RandomNumbers.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\RandomNumbers\obj\Debug\net6.0\refint\RandomNumbers.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\RandomNumbers\obj\Debug\net6.0\RandomNumbers.pdb
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\RandomNumbers\obj\Debug\net6.0\RandomNumbers.genruntimeconfig.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\Kursusgang8\RandomNumbers\obj\Debug\net6.0\ref\RandomNumbers.dll

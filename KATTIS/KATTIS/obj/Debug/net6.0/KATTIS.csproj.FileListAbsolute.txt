@@ -1,0 +1,15 @@
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\KATTIS\KATTIS\bin\Debug\net6.0\KATTIS.exe
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\KATTIS\KATTIS\bin\Debug\net6.0\KATTIS.deps.json
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\KATTIS\KATTIS\bin\Debug\net6.0\KATTIS.runtimeconfig.json
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\KATTIS\KATTIS\bin\Debug\net6.0\KATTIS.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\KATTIS\KATTIS\bin\Debug\net6.0\KATTIS.pdb
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\KATTIS\KATTIS\obj\Debug\net6.0\KATTIS.csproj.AssemblyReference.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\KATTIS\KATTIS\obj\Debug\net6.0\KATTIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\KATTIS\KATTIS\obj\Debug\net6.0\KATTIS.AssemblyInfoInputs.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\KATTIS\KATTIS\obj\Debug\net6.0\KATTIS.AssemblyInfo.cs
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\KATTIS\KATTIS\obj\Debug\net6.0\KATTIS.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\KATTIS\KATTIS\obj\Debug\net6.0\KATTIS.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\KATTIS\KATTIS\obj\Debug\net6.0\refint\KATTIS.dll
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\KATTIS\KATTIS\obj\Debug\net6.0\KATTIS.pdb
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\KATTIS\KATTIS\obj\Debug\net6.0\KATTIS.genruntimeconfig.cache
+C:\Users\Jonathan\OneDrive\Dokumenter\Gitrepose\3.Semester\KATTIS\KATTIS\obj\Debug\net6.0\ref\KATTIS.dll
