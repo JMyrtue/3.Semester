@@ -1,0 +1,15 @@
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\NumbersLinq\bin\Debug\net6.0\NumbersLinq.exe
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\NumbersLinq\bin\Debug\net6.0\NumbersLinq.deps.json
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\NumbersLinq\bin\Debug\net6.0\NumbersLinq.runtimeconfig.json
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\NumbersLinq\bin\Debug\net6.0\NumbersLinq.dll
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\NumbersLinq\bin\Debug\net6.0\NumbersLinq.pdb
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\NumbersLinq\obj\Debug\net6.0\NumbersLinq.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\NumbersLinq\obj\Debug\net6.0\NumbersLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\NumbersLinq\obj\Debug\net6.0\NumbersLinq.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\NumbersLinq\obj\Debug\net6.0\NumbersLinq.AssemblyInfo.cs
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\NumbersLinq\obj\Debug\net6.0\NumbersLinq.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\NumbersLinq\obj\Debug\net6.0\NumbersLinq.dll
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\NumbersLinq\obj\Debug\net6.0\refint\NumbersLinq.dll
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\NumbersLinq\obj\Debug\net6.0\NumbersLinq.pdb
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\NumbersLinq\obj\Debug\net6.0\NumbersLinq.genruntimeconfig.cache
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\NumbersLinq\obj\Debug\net6.0\ref\NumbersLinq.dll

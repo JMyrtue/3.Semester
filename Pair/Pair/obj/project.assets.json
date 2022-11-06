@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jonathan\\OneDrive\\Dokumenter\\Gitrepose\\3.Semester\\Pair\\Pair\\Pair.csproj",
+      "projectUniqueName": "C:\\Users\\Jonathan\\Documents\\Programmering\\3.Semester\\Pair\\Pair\\Pair.csproj",
       "projectName": "Pair",
-      "projectPath": "C:\\Users\\Jonathan\\OneDrive\\Dokumenter\\Gitrepose\\3.Semester\\Pair\\Pair\\Pair.csproj",
+      "projectPath": "C:\\Users\\Jonathan\\Documents\\Programmering\\3.Semester\\Pair\\Pair\\Pair.csproj",
       "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jonathan\\OneDrive\\Dokumenter\\Gitrepose\\3.Semester\\Pair\\Pair\\obj\\",
+      "outputPath": "C:\\Users\\Jonathan\\Documents\\Programmering\\3.Semester\\Pair\\Pair\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\ComplexQueries\bin\Debug\net6.0\ComplexQueries.exe
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\ComplexQueries\bin\Debug\net6.0\ComplexQueries.deps.json
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\ComplexQueries\bin\Debug\net6.0\ComplexQueries.runtimeconfig.json
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\ComplexQueries\bin\Debug\net6.0\ComplexQueries.dll
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\ComplexQueries\bin\Debug\net6.0\ComplexQueries.pdb
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\ComplexQueries\obj\Debug\net6.0\ComplexQueries.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\ComplexQueries\obj\Debug\net6.0\ComplexQueries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\ComplexQueries\obj\Debug\net6.0\ComplexQueries.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\ComplexQueries\obj\Debug\net6.0\ComplexQueries.AssemblyInfo.cs
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\ComplexQueries\obj\Debug\net6.0\ComplexQueries.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\ComplexQueries\obj\Debug\net6.0\ComplexQueries.dll
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\ComplexQueries\obj\Debug\net6.0\refint\ComplexQueries.dll
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\ComplexQueries\obj\Debug\net6.0\ComplexQueries.pdb
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\ComplexQueries\obj\Debug\net6.0\ComplexQueries.genruntimeconfig.cache
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\ComplexQueries\obj\Debug\net6.0\ref\ComplexQueries.dll

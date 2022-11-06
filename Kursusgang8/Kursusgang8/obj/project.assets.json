@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jonathan\\OneDrive\\Dokumenter\\Gitrepose\\3.Semester\\Kursusgang8\\Kursusgang8\\Sequence.csproj",
+      "projectUniqueName": "C:\\Users\\Jonathan\\Documents\\Programmering\\3.Semester\\Kursusgang8\\Kursusgang8\\Sequence.csproj",
       "projectName": "Sequence",
-      "projectPath": "C:\\Users\\Jonathan\\OneDrive\\Dokumenter\\Gitrepose\\3.Semester\\Kursusgang8\\Kursusgang8\\Sequence.csproj",
+      "projectPath": "C:\\Users\\Jonathan\\Documents\\Programmering\\3.Semester\\Kursusgang8\\Kursusgang8\\Sequence.csproj",
       "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jonathan\\OneDrive\\Dokumenter\\Gitrepose\\3.Semester\\Kursusgang8\\Kursusgang8\\obj\\",
+      "outputPath": "C:\\Users\\Jonathan\\Documents\\Programmering\\3.Semester\\Kursusgang8\\Kursusgang8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config",

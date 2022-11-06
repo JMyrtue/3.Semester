@@ -1,0 +1,15 @@
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\QueryMotervehicles\bin\Debug\net6.0\QueryMotervehicles.exe
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\QueryMotervehicles\bin\Debug\net6.0\QueryMotervehicles.deps.json
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\QueryMotervehicles\bin\Debug\net6.0\QueryMotervehicles.runtimeconfig.json
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\QueryMotervehicles\bin\Debug\net6.0\QueryMotervehicles.dll
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\QueryMotervehicles\bin\Debug\net6.0\QueryMotervehicles.pdb
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\QueryMotervehicles\obj\Debug\net6.0\QueryMotervehicles.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\QueryMotervehicles\obj\Debug\net6.0\QueryMotervehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\QueryMotervehicles\obj\Debug\net6.0\QueryMotervehicles.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\QueryMotervehicles\obj\Debug\net6.0\QueryMotervehicles.AssemblyInfo.cs
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\QueryMotervehicles\obj\Debug\net6.0\QueryMotervehicles.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\QueryMotervehicles\obj\Debug\net6.0\QueryMotervehicles.dll
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\QueryMotervehicles\obj\Debug\net6.0\refint\QueryMotervehicles.dll
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\QueryMotervehicles\obj\Debug\net6.0\QueryMotervehicles.pdb
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\QueryMotervehicles\obj\Debug\net6.0\QueryMotervehicles.genruntimeconfig.cache
+C:\Users\Jonathan\Documents\Programmering\3.Semester\Kursusgang8\QueryMotervehicles\obj\Debug\net6.0\ref\QueryMotervehicles.dll
