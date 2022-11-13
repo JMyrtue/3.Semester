@@ -16,7 +16,7 @@ class Program
     }
 }
 
-class Dict
+class Dict<K,V>
 {
     List<Pair<K,V>> Dicktionary = new List<Pair<K,V>>();
 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jonathan\\OneDrive\\Dokumenter\\Gitrepose\\3.Semester\\HandyMethods\\HandyMethods\\HandyMethods.csproj",
+      "projectUniqueName": "C:\\Users\\Jonathan\\Documents\\Programmering\\3.Semester\\HandyMethods\\HandyMethods\\HandyMethods.csproj",
       "projectName": "HandyMethods",
-      "projectPath": "C:\\Users\\Jonathan\\OneDrive\\Dokumenter\\Gitrepose\\3.Semester\\HandyMethods\\HandyMethods\\HandyMethods.csproj",
+      "projectPath": "C:\\Users\\Jonathan\\Documents\\Programmering\\3.Semester\\HandyMethods\\HandyMethods\\HandyMethods.csproj",
       "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jonathan\\OneDrive\\Dokumenter\\Gitrepose\\3.Semester\\HandyMethods\\HandyMethods\\obj\\",
+      "outputPath": "C:\\Users\\Jonathan\\Documents\\Programmering\\3.Semester\\HandyMethods\\HandyMethods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
