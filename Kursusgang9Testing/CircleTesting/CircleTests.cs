@@ -61,8 +61,9 @@ namespace CircleTesting
         }
     }
 
-    public class Vector2DTests
+    public class Vector2DTests 
     {
+
         [Theory]
         [InlineData(1, 1, 1, 1, 2, 2)]
         [InlineData(1, 2, 1, 2, 2, 4)]
@@ -77,7 +78,7 @@ namespace CircleTesting
 
             Vector2D combinedVector = OGVector.Add(OtherVector);
 
-            Assert.Equal(expectedVector, combinedVector);
-        }
+            Assert.True(expectedVector.Equals(combinedVector));
+        } 
     }
 }
