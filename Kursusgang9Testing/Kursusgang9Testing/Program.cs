@@ -19,6 +19,79 @@ class Program
 {
     static void Main()
     {
+        String s = new String("HEJSA");
+        String d = new String("HEJSA");
+
+
+        Console.WriteLine(s.CharAt(3));
+        Console.WriteLine(s.Length());
+        Console.WriteLine(s.SubString(2,2));
+        s.ToLowerCase();
+        Console.WriteLine(s);
+        Console.WriteLine(s.Equals(d));
+        String b = new String("hejsa");
+        Console.WriteLine(s.Equals(b));
 
     }
+}
+
+class String
+{
+    char[] Sting;
+
+    public String(string input)
+    {
+        Sting = new char[input.Length];
+        Sting = input.ToCharArray();
+    }
+
+    public char CharAt(int index)
+    {
+        return Sting[index];
+    } 
+
+    public int Length()
+    {
+        return Sting.Length;
+    }
+
+    public char[] SubString(int startIndex, int subStringLength)
+    {
+        try
+        {
+            if (Sting[startIndex + subStringLength] == null)
+                throw new ArgumentNullException();
+
+            char[] result = new char[subStringLength];
+            for(int i = startIndex, j = 0; i <= subStringLength; i++, j++)
+            {
+                result[j] = Sting[i];
+            }
+
+            return result;
+        }
+        catch (ArgumentNullException)
+        {
+            Console.WriteLine("Requested substring is too long.");
+
+            char[] empty = new char[0];
+            return empty;
+        }
+    }
+
+    public void ToLowerCase()
+    {
+        for(int i = 0; i < Sting.Length; i++)
+        {
+            Sting[i] = char.ToLower(Sting[i]);
+        }
+    }
+
+    public bool Equals(char[] otherSting)
+    {
+        if(Sting == otherSting)
+            return true;
+        return false;
+    }
+    
 }

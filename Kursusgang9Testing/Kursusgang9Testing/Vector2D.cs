@@ -1,4 +1,4 @@
-﻿public class Vector2D
+﻿public class Vector2D : IEquatable<Vector2D>
 {
     public int R1 { get; set; }
     public int R2 { get; set; }

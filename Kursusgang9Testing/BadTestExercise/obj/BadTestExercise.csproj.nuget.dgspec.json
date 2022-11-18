@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jonathan\\OneDrive\\Dokumenter\\Gitrepose\\3.Semester\\Kursusgang9Testing\\BadTestExercise\\BadTestExercise.csproj": {}
+    "C:\\Users\\Jonathan\\Documents\\Programmering\\3.Semester\\Kursusgang9Testing\\BadTestExercise\\BadTestExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jonathan\\OneDrive\\Dokumenter\\Gitrepose\\3.Semester\\Kursusgang9Testing\\BadTestExercise\\BadTestExercise.csproj": {
+    "C:\\Users\\Jonathan\\Documents\\Programmering\\3.Semester\\Kursusgang9Testing\\BadTestExercise\\BadTestExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jonathan\\OneDrive\\Dokumenter\\Gitrepose\\3.Semester\\Kursusgang9Testing\\BadTestExercise\\BadTestExercise.csproj",
+        "projectUniqueName": "C:\\Users\\Jonathan\\Documents\\Programmering\\3.Semester\\Kursusgang9Testing\\BadTestExercise\\BadTestExercise.csproj",
         "projectName": "BadTestExercise",
-        "projectPath": "C:\\Users\\Jonathan\\OneDrive\\Dokumenter\\Gitrepose\\3.Semester\\Kursusgang9Testing\\BadTestExercise\\BadTestExercise.csproj",
+        "projectPath": "C:\\Users\\Jonathan\\Documents\\Programmering\\3.Semester\\Kursusgang9Testing\\BadTestExercise\\BadTestExercise.csproj",
         "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jonathan\\OneDrive\\Dokumenter\\Gitrepose\\3.Semester\\Kursusgang9Testing\\BadTestExercise\\obj\\",
+        "outputPath": "C:\\Users\\Jonathan\\Documents\\Programmering\\3.Semester\\Kursusgang9Testing\\BadTestExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
